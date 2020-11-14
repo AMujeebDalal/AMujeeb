@@ -4,6 +4,12 @@
 
 #### Things that are keeping me busy: 
 
-Data Visualization: Pandas, Matplotlib
+Data Visualization and analysis
 
-Language: Python, Java
+Machine Learning
+
+Economy
+
+Management and Administration
+
+
