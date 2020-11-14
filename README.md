@@ -1,15 +1,15 @@
 # Abdul Mujeeb Dalal
 
-<h3 align="center"><samp> Hi there welcome to my Github! I like code in Python and I'm exploring Data Science </samp></h4>
+<h2 align="center"><samp> Hi there welcome to my Github! I like code in Python and I'm exploring Data Science </samp></h2>
 
-#### Things that are keeping me busy: 
+### Things that are keeping me busy: 
 
-Data Visualization and analysis
+##### Data Visualization and analysis
 
-Machine Learning
+##### Machine Learning
 
-Economy
+##### Economy
 
-Management and Administration
+##### Management and Administration
 
 
