@@ -5,7 +5,7 @@
 
 <h3>Interests:</h3>
       
-#### Data Visualization and analysis
+#### Data Visualization and Analysis
 
 #### Machine Learning
 
