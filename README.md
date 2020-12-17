@@ -33,9 +33,9 @@
       <span title="CSS">
           <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
       </span>
-            <span title="R">
+      <span title="R">
         <a href="https://www.r-project.org/" rel="nofollow">
-          <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="max-width:100%;">
+          <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="max-width:100%;">
         </a>
       </span>
       <span title="Javascript">
