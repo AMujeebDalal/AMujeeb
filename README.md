@@ -28,10 +28,14 @@
         </a>
       </span>
         <span title="HTML">
+      <a href="https://html.com/" target="_blank" rel="nofollow">
           <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">
+          </a>
       </span>
       <span title="CSS">
+      <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow">
           <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
+            </a>
       </span>
       <span title="R">
         <a href="https://www.r-project.org/" target="_blank" rel="nofollow">
@@ -39,10 +43,14 @@
         </a>
       </span>
       <span title="Javascript">
+      <a href="https://www.javascript.com/" rel="nofollow">
           <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
+      </a>
       </span>
        <span title="PHP">
-          <img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="max-width:100%;">
+      <a href="https://www.php.net/" rel="nofollow">
+          <img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="max-width:100%;">\
+            </a>
       </span>
         <span title="C">
         <a href="https://www.cprogramming.com/" target="_blank" rel="nofollow">
