@@ -89,7 +89,7 @@
   </span>
   <span title="SQLite">
     <a href="https://www.sqlite.org/index.html" target="_blank" rel="nofollow">
-     <img height="50" src="https://camo.githubusercontent.com/4e095b8d0ff7f89196247f2182522d4bb42e4895b5f3b4bdbc0ce3e600aea115/68747470733a2f2f73696d706c6569636f6e732e6f72672f69636f6e732f73716c6974652e737667" data-canonical-src="https://simpleicons.org/icons/sqlite.svg" style="max-width:100%;">
+     <img height="50" width="50"src="https://www.sqlite.org/images/sqlite370_banner.gif" style="max-width:100%;">
     </a>
   </span>
   <span title="JSON">
