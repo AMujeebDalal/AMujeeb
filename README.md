@@ -49,7 +49,7 @@
       </span>
        <span title="PHP">
       <a href="https://www.php.net/" rel="nofollow">
-          <img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="max-width:100%;">\
+          <img height="50" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="max-width:100%;">
             </a>
       </span>
         <span title="C">
