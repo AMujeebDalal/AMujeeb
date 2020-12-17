@@ -61,17 +61,10 @@
         <a href="https://www.cprogramming.com/" target="_blank" rel="nofollow">
           <img height="50" src="https://camo.githubusercontent.com/f1f27bdd39fb595243339a1d612590cc71906e9b64b315911ec085748a263c61/68747470733a2f2f73696d706c6569636f6e732e6f72672f69636f6e732f63706c7573706c75732e737667" data-canonical-src="https://simpleicons.org/icons/cplusplus.svg" style="max-width:100%;">
         </a>
-      <span title="Bash">
-        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="nofollow">
-          <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" style="max-width:100%;">
-        </a>
-      </span>
     <hr style="border-style: dotted none none;
       border-width: 0.5rem;
       border-color: #93ABD3;">
-
 <h3>DBM:</h3>
-
    <span title="MySQL">
     <a href="https://www.mysql.com/" target="_blank" rel="nofollow">
       <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" style="max-width:100%;">
@@ -91,11 +84,7 @@
     <a href="https://www.sqlite.org/index.html" target="_blank" rel="nofollow">
      <img height="50" width="50"src="https://www.sqlite.org/images/sqlite370_banner.gif" style="max-width:100%;">
     </a>
-  </span>
-  <span title="JSON">
-    <a href="https://www.json.org/json-en.html" target="_blank" rel="nofollow">
-      <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" style="max-width:100%;">
-    </a>
-  </span>
+    </span>
+
 
 
