@@ -36,11 +36,11 @@
       <a href="https://www.w3.org/Style/CSS/Overview.en.html" rel="nofollow">
           <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
             </a>
-<!--       </span>
+            </span>
       <span title="R">
         <a href="https://www.r-project.org/" target="_blank" rel="nofollow">
           <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="max-width:100%;">
-        </a> -->
+        </a> 
       </span>
       <span title="Javascript">
       <a href="https://www.javascript.com/" rel="nofollow">
