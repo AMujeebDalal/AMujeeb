@@ -1,7 +1,7 @@
 
 # Abdul Mujeeb Dalal
 <a href="https://www.linkedin.com/in/abmujeeb/" target="_blank"><img width=50 height=50 src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg"></a>
-	:muscle:
+	:muscle::man_technologist:
 <h2 align="center"><samp> Hi there welcome to my Github Profile! I like to code in Python and I'm currently exploring Data Science and its use in governance and administration.</samp></h2>
 
 <h3>Interests:</h3>
